@@ -29,6 +29,20 @@ platform :ios, '8.0'
 pod "RMActionController", "~> 1.3.1"
 ```
 
+## Installation (Swift Package Manager)
+
+You can add RMActionController to your project using [Swift Package Manager](https://swift.org/package-manager/).
+
+1. In Xcode, go to **File > Add Packages...**
+2. Enter the repository URL:
+
+   ```
+   https://github.com/CooperRS/RMActionController.git
+   ```
+3. Select the version you want and add the package to your target.
+
+---
+
 ## Usage
 
 For a detailed description on how to use `RMActionController` take a look at the [Wiki Pages](https://github.com/CooperRS/RMActionController/wiki). The following four steps are a very short intro:
