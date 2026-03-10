@@ -8,7 +8,7 @@
 
 #import "RMGroupedAction.h"
 
-#import "RMAction+Private.h"
+#import "../Private/RMAction+Private.h"
 #import "UIView+RMActionController.h"
 
 @interface RMGroupedAction ()

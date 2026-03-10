@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .target(
             name: "RMActionController",
-            path: "RMActionController",
-            publicHeadersPath: "."
+            path: "Sources/RMActionController",
+            publicHeadersPath: "include"
         )
     ]
 )

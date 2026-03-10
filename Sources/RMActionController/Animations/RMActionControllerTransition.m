@@ -8,7 +8,7 @@
 
 #import "RMActionControllerTransition.h"
 
-#import "RMActionController+Private.h"
+#import "../Private/RMActionController+Private.h"
 
 @implementation RMActionControllerTransition
 

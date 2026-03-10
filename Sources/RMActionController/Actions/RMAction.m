@@ -6,9 +6,9 @@
 //  Copyright © 2016 Roland Moers. All rights reserved.
 //
 
-#import "RMAction+Private.h"
+#import "../Private/RMAction+Private.h"
 
-#import "RMActionController+Private.h"
+#import "../Private/RMActionController+Private.h"
 #import "NSProcessInfo+RMActionController.h"
 
 @interface RMAction ()

@@ -24,10 +24,10 @@
 //  THE SOFTWARE.
 //
 
-#import "RMActionController+Private.h"
+#import "../Private/RMActionController+Private.h"
 #import <QuartzCore/QuartzCore.h>
 
-#import "RMAction+Private.h"
+#import "../Private/RMAction+Private.h"
 #import "RMActionControllerTransition.h"
 #import "NSProcessInfo+RMActionController.h"
 #import "UIView+RMActionController.h"
