@@ -30,6 +30,9 @@
 #import "RMImageAction.h"
 #import "RMGroupedAction.h"
 #import "RMScrollableGroupedAction.h"
+#import "RMActionControllerTransition.h"
+#import "NSProcessInfo+RMActionController.h"
+#import "UIView+RMActionController.h"
 
 /**
  *  RMActionControllerStyle is used to determine the display style of RMActionController. There are three styles available: White, black and the default style, which is white.
